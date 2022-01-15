@@ -163,12 +163,12 @@ mv tmp barcodes.tsv
 
 Then use the `R` script `mCortex_analysis.R` from the `scripts_data` directory to analyse the data. The `R` script will output the following files that are needed to reproduce the results:
 
-[mCortex_all_metadata.csv](https://github.com/dbrg77/ISSAAC-seq/scripts_data/mCortex_all_metadata.csv) # metadata for all cells  
-[mCortex_all_expression_matrix.csv.gz](https://github.com/dbrg77/ISSAAC-seq/scripts_data/mCortex_all_expression_matrix.csv.gz) # RNA count matrix (UMI)  
-[mCortex_all_RNA_UMAP_coordinates.csv](https://github.com/dbrg77/ISSAAC-seq/scripts_data/mCortex_all_RNA_UMAP_coordinates.csv) # RNA UMAP coordinates (2D)  
-[mCortex_all_ATAC_UMAP_coordinates.csv](https://github.com/dbrg77/ISSAAC-seq/scripts_data/mCortex_all_ATAC_UMAP_coordinates.csv) # ATAC UMAP coordinates (2D)  
-[mCortex_all_OPC_to_Oligo_peudotime_information.csv](https://github.com/dbrg77/ISSAAC-seq/scripts_data/mCortex_all_OPC_to_Oligo_peudotime_information.csv) # Pseudotime information of OPCs and Oligos  
-[mCortex_all_OPC_to_Oligo_cor_gene_expression_pseudotime.csv](https://github.com/dbrg77/ISSAAC-seq/scripts_data/mCortex_all_OPC_to_Oligo_cor_gene_expression_pseudotime.csv) # Smoothed gene expression along the pseudotime trajectory  
-[mCortex_all_OPC_to_Oligo_cor_gene_activity_score_pseudotime.csv](https://github.com/dbrg77/ISSAAC-seq/scripts_data/mCortex_all_OPC_to_Oligo_cor_gene_activity_score_pseudotime.csv) # Smoothed gene activity score along the pseudotime trajectory  
+[mCortex_all_metadata.csv](https://github.com/dbrg77/ISSAAC-seq/blob/main/scripts_data/mCortex_all_metadata.csv) # metadata for all cells  
+[mCortex_all_expression_matrix.csv.gz](https://github.com/dbrg77/ISSAAC-seq/blob/main/scripts_data/mCortex_all_expression_matrix.csv.gz) # RNA count matrix (UMI)  
+[mCortex_all_RNA_UMAP_coordinates.csv](https://github.com/dbrg77/ISSAAC-seq/blob/main/scripts_data/mCortex_all_RNA_UMAP_coordinates.csv) # RNA UMAP coordinates (2D)  
+[mCortex_all_ATAC_UMAP_coordinates.csv](https://github.com/dbrg77/ISSAAC-seq/blob/main/scripts_data/mCortex_all_ATAC_UMAP_coordinates.csv) # ATAC UMAP coordinates (2D)  
+[mCortex_all_OPC_to_Oligo_peudotime_information.csv](https://github.com/dbrg77/ISSAAC-seq/blob/main/scripts_data/mCortex_all_OPC_to_Oligo_peudotime_information.csv) # Pseudotime information of OPCs and Oligos  
+[mCortex_all_OPC_to_Oligo_cor_gene_expression_pseudotime.csv](https://github.com/dbrg77/ISSAAC-seq/blob/main/scripts_data/mCortex_all_OPC_to_Oligo_cor_gene_expression_pseudotime.csv) # Smoothed gene expression along the pseudotime trajectory  
+[mCortex_all_OPC_to_Oligo_cor_gene_activity_score_pseudotime.csv](https://github.com/dbrg77/ISSAAC-seq/blob/main/scripts_data/mCortex_all_OPC_to_Oligo_cor_gene_activity_score_pseudotime.csv) # Smoothed gene activity score along the pseudotime trajectory  
 
-Check the [mCortex_cell_types.ipynb](https://nbviewer.org/github/dbrg77/ISSAAC-seq/blob/master/mCortex_cell_types.ipynb) and [mCortex_pseudotime.ipynb](https://nbviewer.org/github/dbrg77/ISSAAC-seq/blob/master/mCortex_pseudotime.ipynb) notebook files for details about reproducing the figures.
+Check the [mCortex_cell_types.ipynb](https://nbviewer.org/github/dbrg77/ISSAAC-seq/blob/master/main/mCortex_cell_types.ipynb) and [mCortex_pseudotime.ipynb](https://nbviewer.org/github/dbrg77/ISSAAC-seq/blob/master/main/mCortex_pseudotime.ipynb) notebook files for details about reproducing the figures.
