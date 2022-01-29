@@ -38,18 +38,18 @@ You can start from there, and rename them to something meaningful. The mouse cor
 
 - __ATAC__
 
-  - [mCortex_rep1_FACS_ATAC_S1_R1_001.fastq.gz](ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR813/ERR8135212/mCortex_rep1_FACS_ATAC_S1_R1_001.fastq.gz)
-  - [mCortex_rep1_FACS_ATAC_S1_R2_001.fastq.gz](ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR813/ERR8135212/mCortex_rep1_FACS_ATAC_S1_R2_001.fastq.gz)
-  - [mCortex_rep1_FACS_ATAC_S1_I1_001.fastq.gz](ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR813/ERR8135212/mCortex_rep1_FACS_ATAC_S1_I1_001.fastq.gz)
-  - [mCortex_rep1_FACS_ATAC_S1_I2_001.fastq.gz](ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR813/ERR8135212/mCortex_rep1_FACS_ATAC_S1_I2_001.fastq.gz)
+  - ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR813/ERR8135212/mCortex_rep1_FACS_ATAC_S1_R1_001.fastq.gz
+  - ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR813/ERR8135212/mCortex_rep1_FACS_ATAC_S1_R2_001.fastq.gz
+  - ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR813/ERR8135212/mCortex_rep1_FACS_ATAC_S1_I1_001.fastq.gz
+  - ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR813/ERR8135212/mCortex_rep1_FACS_ATAC_S1_I2_001.fastq.gz
 
 
 - __RNA__
 
-  - [mCortex_rep1_FACS_RNA_S2_R1_001.fastq.gz](ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR813/ERR8135201/mCortex_rep1_FACS_RNA_S2_R1_001.fastq.gz)
-  - [mCortex_rep1_FACS_RNA_S2_R2_001.fastq.gz](ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR813/ERR8135201/mCortex_rep1_FACS_RNA_S2_R2_001.fastq.gz)
-  - [mCortex_rep1_FACS_RNA_S2_I1_001.fastq.gz](ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR813/ERR8135201/mCortex_rep1_FACS_RNA_S2_I1_001.fastq.gz)
-  - [mCortex_rep1_FACS_RNA_S2_I2_001.fastq.gz](ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR813/ERR8135201/mCortex_rep1_FACS_RNA_S2_I2_001.fastq.gz)
+  - ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR813/ERR8135201/mCortex_rep1_FACS_RNA_S2_R1_001.fastq.gz
+  - ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR813/ERR8135201/mCortex_rep1_FACS_RNA_S2_R2_001.fastq.gz
+  - ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR813/ERR8135201/mCortex_rep1_FACS_RNA_S2_I1_001.fastq.gz
+  - ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR813/ERR8135201/mCortex_rep1_FACS_RNA_S2_I2_001.fastq.gz
 
 ## To get the gene expression matrix
 
