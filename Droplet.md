@@ -28,30 +28,30 @@ That means you sequence the libraries as if they are 10x scATAC-seq libraries. O
 
 - __Rep1 ATAC__
 
-  - [mCortex_rep1_Droplet_ATAC_S1_L001_R1_001.fastq.gz](ENA link to be activated)
-  - [mCortex_rep1_Droplet_ATAC_S1_L001_R2_001.fastq.gz](ENA link to be activated)
-  - [mCortex_rep1_Droplet_ATAC_S1_L001_I2_001.fastq.gz](ENA link to be activated)
+  - ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR813/ERR8135207/mCortex_rep1_Droplet_ATAC_S1_L001_R1_001.fastq.gz
+  - ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR813/ERR8135207/mCortex_rep1_Droplet_ATAC_S1_L001_R2_001.fastq.gz
+  - ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR813/ERR8135207/mCortex_rep1_Droplet_ATAC_S1_L001_I2_001.fastq.gz
 
 
 - __Rep1 RNA__
 
-  - [mCortex_rep1_Droplet_RNA_S1_L001_R1_001.fastq.gz](ENA link to be activated)
-  - [mCortex_rep1_Droplet_RNA_S1_L001_R2_001.fastq.gz](ENA link to be activated)
-  - [mCortex_rep1_Droplet_RNA_S1_L001_I2_001.fastq.gz](ENA link to be activated)
+  - ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR813/ERR8135210/mCortex_rep1_Droplet_RNA_S1_L001_R1_001.fastq.gz
+  - ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR813/ERR8135210/mCortex_rep1_Droplet_RNA_S1_L001_R2_001.fastq.gz
+  - ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR813/ERR8135210/mCortex_rep1_Droplet_RNA_S1_L001_I2_001.fastq.gz
 
 
 - __Rep2 ATAC__
 
-  - [mCortex_rep2_Droplet_ATAC_S1_L001_R1_001.fastq.gz](ENA link to be activated)
-  - [mCortex_rep2_Droplet_ATAC_S1_L001_R2_001.fastq.gz](ENA link to be activated)
-  - [mCortex_rep2_Droplet_ATAC_S1_L001_I2_001.fastq.gz](ENA link to be activated)
+  - ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR813/ERR8135204/mCortex_rep2_Droplet_ATAC_S1_L001_R1_001.fastq.gz
+  - ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR813/ERR8135204/mCortex_rep2_Droplet_ATAC_S1_L001_R2_001.fastq.gz
+  - ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR813/ERR8135204/mCortex_rep2_Droplet_ATAC_S1_L001_I2_001.fastq.gz
 
 
 - __Rep2 RNA__
 
-  - [mCortex_rep2_Droplet_RNA_S1_L001_R1_001.fastq.gz](ENA link to be activated)
-  - [mCortex_rep2_Droplet_RNA_S1_L001_R2_001.fastq.gz](ENA link to be activated)
-  - [mCortex_rep2_Droplet_RNA_S1_L001_I2_001.fastq.gz](ENA link to be activated)
+  - ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR813/ERR8135219/mCortex_rep2_Droplet_RNA_S1_L001_R1_001.fastq.gz
+  - ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR813/ERR8135219/mCortex_rep2_Droplet_RNA_S1_L001_R2_001.fastq.gz
+  - ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR813/ERR8135219/mCortex_rep2_Droplet_RNA_S1_L001_I2_001.fastq.gz
 
 ## To get the gene expression matrix
 
