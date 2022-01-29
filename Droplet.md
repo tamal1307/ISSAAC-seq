@@ -53,6 +53,13 @@ That means you sequence the libraries as if they are 10x scATAC-seq libraries. O
   - ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR813/ERR8135219/mCortex_rep2_Droplet_RNA_S1_L001_R2_001.fastq.gz
   - ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR813/ERR8135219/mCortex_rep2_Droplet_RNA_S1_L001_I2_001.fastq.gz
 
+
+- __Processed files__
+
+  - [RNA - Gene expression UMI count matrix](https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-11264/E-MTAB-11264.processed.3.zip/mCortex_all_gene_expression_matrix.csv.gz)
+  - [ATAC - Chromatin accessibility fragment file](https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-11264/E-MTAB-11264.processed.3.zip/fragments_all.tsv.gz)
+  - [ATAC - Chromatin accessibility peak count matrix](https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-11264/E-MTAB-11264.processed.1.zip/mCortex_all_ATAC_peak_matrix.h5.gz)
+
 ## To get the gene expression matrix
 
 1. Collect the cell barcodes and UMI information from `I2` and `R2` read files. Use `collect_cb_umi_issaac_droplet.py` from the `scripts_data` directory and do:
@@ -131,7 +138,7 @@ cellranger-atac-2.0.0/cellranger-atac count \
     --fastqs /path/to/rep1/fastq \
     --localcores 40
     
-# rep1
+# rep2
 cellranger-atac-2.0.0/cellranger-atac count \
     --id mCortex_ATAC_rep2 \
     --reference /path/to/refdata-cellranger-arc-mm10-2020-A-2.0.0 \
