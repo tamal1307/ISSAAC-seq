@@ -17,7 +17,7 @@ This section contains information about ISSAAC-seq using a plate-based workflow.
 
 Check [this page](https://teichlab.github.io/scg_lib_structs/methods_html/ISSAAC-seq.html#FACS) to see how a step-by-step guide of how the libraries are generated. In this workflow, single nuclei are sorted into invidividual wells containing index primers. The library preparation is done individually. In this case, the well barcode is the cell barcode. The combination of `Index 1 (i7)` and `Index 2 (i5)` defines a cell. There are two common scenarios: 
 
-1. You equence your libraries from a core facility. In this case, you probably need to provide the index information `Index 1 (i7) + Index 2 (i5)`, and the core will demultiplex for you. In this case, you have two fastq files for each cell per modality: `R1.fastq.gz` and `R2.fastq.gz`.
+1. You sequence your libraries from a core facility. In this case, you probably need to provide the index information `Index 1 (i7) + Index 2 (i5)`, and the core will demultiplex for you. In this case, you have two fastq files for each cell per modality: `R1.fastq.gz` and `R2.fastq.gz`.
 
 2. You sequence by yourself, and run `bcl2fastq` from `Illumina` to generate fastq files. You can certainly put the `Index 1 (i7) + Index 2 (i5)` information in the `SampleSheet.csv`, and each cell will get demultiplexed by `bcl2fastq`. A simpler way is simply put `NNNNNNNN + NNNNNNNN` in the `SampleSheet.csv`. Then run `bcl2fastq` like this:
 
