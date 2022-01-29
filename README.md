@@ -13,7 +13,7 @@ The repository contains details of the library structures and the code for the d
 
 ## Raw Data Availability
 
-Sequencing data can be downloaded from ArrayExpress under the accession number E-MTAB-11264. It is currently under curation and will be public very soon.
+Sequencing data can be downloaded from ArrayExpress under the accession number [E-MTAB-11264](https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-11264). It is currently under curation and will be public very soon.
 
 ## Citation
 
